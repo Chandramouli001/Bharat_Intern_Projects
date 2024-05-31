@@ -20,8 +20,3 @@ This project is a comprehensive money tracking website designed to help users ma
 - Node.js
 - Express.js
 - MongoDB
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/money-tracking-website.git
