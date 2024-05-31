@@ -1,15 +1,27 @@
-# Money-Tracker-WebApp
 
-The Money Tracker WebApp using Html, css, Node.js, MongoDB.
-It is used to track our daily expenses and an essential app in our daily life.
+### Money Tracking Website Project
 
-## Technologies Used:
-  - HTML
-  - CSS
-  - JavaScript
-  - Node.js
-  - Express.js
-  - MongoDB
-## Sample Pic :
+```markdown
+# Money Tracking Website Project
 
-<img width="698" alt="task 2" src="https://github.com/Aarthi-NA/Money-Tracker-WebApp/assets/136803822/e62f40fc-4082-4930-9910-997083a37a56">
+## Description
+This project is a comprehensive money tracking website designed to help users manage their finances effectively. Users can track their income, expenses, and view financial summaries.
+
+## Features
+- User authentication
+- Income and expense tracking
+- Financial summary and reports
+- Responsive design
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/money-tracking-website.git
