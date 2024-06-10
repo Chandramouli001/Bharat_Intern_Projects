@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 require('dotenv').config()
 const connectDb = () =>{
-    mongoose.connect('mongodb://localhost:27017').then(()=>{
+    mongoose.connect("mongodb+srv://chandramouli:mongopass@cluster0.ovqwbwh.mongodb.net/").then(()=>{
         console.log("Database connected")
     }).catch((err)=>{
         console.log(err)
